@@ -36,7 +36,7 @@ function DragDrop() {
       return (
         <object
           data={preview}
-          type="/pdf"
+          type="application/pdf"
           width="100%"
           height="500px"
           className="rounded-lg shadow-lg"
